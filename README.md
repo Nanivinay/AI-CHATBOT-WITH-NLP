@@ -81,3 +81,10 @@ Notes :
 - For now, it's rule-based using simple keyword matching.
 
 - Can be expanded into a more intelligent chatbot using machine learning or deep learning techniques.
+
+RESULT :
+
+
+![Image](https://github.com/user-attachments/assets/13eaacfb-7774-4641-9291-5ccae5a28c32)
+
+

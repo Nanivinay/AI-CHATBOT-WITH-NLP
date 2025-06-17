@@ -92,6 +92,6 @@ RESULT :
 
 
 
-Completion : This project is part of the CODTECH Internship submission for the Automated Report Generation task
+Completion : This project is part of the CODTECH Internship submission for the AI CHATBOT WITH NLP task
 
 
